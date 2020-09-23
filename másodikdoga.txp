@@ -1,0 +1,11 @@
+A csoport
+
+1.Mi a külömbség a teli a és az üres elem között példával?
+-A telinek van zárójele a zs üresnek nincs.
+
+2.Sorolj fel három meta elemet.
+-<meta charset="UTF-8">
+-<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+
+3.Emmet utasítás átírása: p>({Példa:}+span{Ez itt egy példa}+{az Emmet-röl}+{Ezzel átírtam})
